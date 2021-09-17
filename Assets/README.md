@@ -25,5 +25,7 @@ THEN I find a concise, descriptive title
 # screenshot of completed website:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Images/screenshot-of-website.png)
 
-# link to deployed application
+# link to deployed application:
+
+https://bripap.github.io/css-demo-site/ 
 
