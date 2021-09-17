@@ -1,10 +1,6 @@
 # css-demo-site
 Homework week 1
-![GitHub Logo](css-demo-site/Images/screenshot of website.png)
-
-
-![Screenshot](/css-demo-site/Images/screenshot of website.png?raw=true "Optional Title")
-Format: ![Alt Text](url)
+![GitHub Logo](css-demo-site/Images/screenshot-of-website.png)
 
 Instructions:
 
