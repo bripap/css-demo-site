@@ -1,6 +1,7 @@
 # css-demo-site
 Homework week 1
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Instructions:
 
