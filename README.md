@@ -1,6 +1,7 @@
 # css-demo-site
 Homework week 1
 
+
 Instructions:
 
 # 01 HTML, CSS, and Git: Code Refactor
