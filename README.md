@@ -1,6 +1,7 @@
 # css-demo-site
 Homework week 1
-![GitHub Logo](css-demo-site/Images/screenshot-of-website.png)
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Images/screenshot-of-website.png)
 
 Instructions:
 
